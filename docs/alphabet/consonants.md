@@ -1,0 +1,311 @@
+---
+sidebar_position: 4
+---
+
+# The Consonants
+
+Now that the vowels are covered we can begin moving onto the consonants. Now at first glance, they may seem easier to get a hold of than the vowels. The only thing that’s different is a weird looking d. But the consonants can actually be more dangerous than the vowels. That’s because some of them may seem like they would be pronounced the same way as in English, but are different.
+
+These include:
+
+
+
+* Vietnamese _t_ is pronounced the same as English _th_
+* The letter _đ_ is the same as English _d_
+* Vietnamese d is pronounced as either y or z (More on that later)
+* Vietnamese p is pronounced similarly to the letter b
+* The letters c, k, and q are pronounced more softly than in English
+* The letters s and x are pronounced the same as English s
+* The letter r is pronounced the same way as the Vietnamese d in casual speech
+* The letter v in southern dialects is pronounced the same way as Vietnamese d in casual speech
+
+We can also do a further split of Vietnamese consonants by splitting them up into what are known as initials and finals. Just like in English, some consonants will make different sounds based on where they are in the word. And in Vietnamese, consonants only occur at the beginning and end of the word, thus giving us are initials and finals. This topic has a lot more depth to it than I’m letting on, but that’s all you need to know for here when it comes to naming.
+
+All consonants in Vietnamese appear as initials, but not necessarily all of them will appear as finals. So here is a comprehensive list of all of the initials and finals in the language. 
+
+
+<table>
+  <tr>
+   <td colspan="8" >Initials
+   </td>
+  </tr>
+  <tr>
+   <td>b
+   </td>
+   <td>c
+   </td>
+   <td>d
+   </td>
+   <td>đ
+   </td>
+   <td>g
+   </td>
+   <td>h
+   </td>
+   <td>k
+   </td>
+   <td>l
+   </td>
+  </tr>
+  <tr>
+   <td>bánh
+   </td>
+   <td>cơm
+   </td>
+   <td>dưới
+   </td>
+   <td>đá
+   </td>
+   <td>ga
+   </td>
+   <td>hay
+   </td>
+   <td>kể
+   </td>
+   <td>làm
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>m
+   </td>
+   <td>n
+   </td>
+   <td>p
+   </td>
+   <td>r
+   </td>
+   <td>s
+   </td>
+   <td>t
+   </td>
+   <td>v
+   </td>
+   <td>x
+   </td>
+  </tr>
+  <tr>
+   <td>mình
+   </td>
+   <td>nếu
+   </td>
+   <td>pin
+   </td>
+   <td>ra
+   </td>
+   <td>sớm
+   </td>
+   <td>tên
+   </td>
+   <td>với
+   </td>
+   <td>xa
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>ch
+   </td>
+   <td>gh
+   </td>
+   <td>gi
+   </td>
+   <td>kh
+   </td>
+   <td>ng
+   </td>
+   <td>ngh
+   </td>
+   <td>nh
+   </td>
+   <td>ph
+   </td>
+  </tr>
+  <tr>
+   <td>chậm
+   </td>
+   <td>ghế
+   </td>
+   <td>gió
+   </td>
+   <td>không
+   </td>
+   <td>ngồi
+   </td>
+   <td>nghe
+   </td>
+   <td>nhanh
+   </td>
+   <td>phở
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>qu
+   </td>
+   <td>th
+   </td>
+   <td>tr
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>quýt
+   </td>
+   <td>thơm
+   </td>
+   <td>trường
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+   <td colspan="8" >Finals
+   </td>
+  </tr>
+  <tr>
+   <td>c
+   </td>
+   <td>m
+   </td>
+   <td>n
+   </td>
+   <td>p
+   </td>
+   <td>t
+   </td>
+   <td>ch
+   </td>
+   <td>ng
+   </td>
+   <td>nh
+   </td>
+  </tr>
+  <tr>
+   <td>bác
+   </td>
+   <td>cơm
+   </td>
+   <td>ơn
+   </td>
+   <td>lớp
+   </td>
+   <td>lướt
+   </td>
+   <td>thích
+   </td>
+   <td>bằng
+   </td>
+   <td>bánh
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>

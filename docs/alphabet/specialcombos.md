@@ -1,0 +1,125 @@
+---
+sidebar_position: 5
+---
+
+# Special Combinations
+
+Outside of the letter combinations above, there is also a number of special combinations that exist between vowel sounds and finals which have the letters making slightly different sounds than they would normally. When you run into these combinations, their unique sound will always take priority when you’re doing pronunciation. These also only occur either as standalone words or at the end of sentences.
+
+These special combinations include:
+
+
+<table>
+  <tr>
+   <td colspan="8" >Special Combinations
+   </td>
+  </tr>
+  <tr>
+   <td>anh
+   </td>
+   <td>ach
+   </td>
+   <td>ăm
+   </td>
+   <td>ăng
+   </td>
+   <td>ênh
+   </td>
+   <td>êch
+   </td>
+   <td>inh
+   </td>
+   <td>ich
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>oc
+   </td>
+   <td>ong
+   </td>
+   <td>ôm
+   </td>
+   <td>ông
+   </td>
+   <td>ôc
+   </td>
+   <td>ung
+   </td>
+   <td>uc
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
