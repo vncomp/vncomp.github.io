@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://vncomp.github.io/blog</id>
+    <title>The Vietnamese Compendium Blog</title>
+    <updated>2023-07-18T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://vncomp.github.io/blog"/>
+    <subtitle>The Vietnamese Compendium Blog</subtitle>
+    <icon>https://vncomp.github.io/img/vncomp.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://vncomp.github.io/blog/first-blog-post</id>
+        <link href="https://vncomp.github.io/blog/first-blog-post"/>
+        <updated>2023-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Vietnamese Compendium everyone! Enjoy your stay!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the Vietnamese Compendium everyone! Enjoy your stay!</p>]]></content>
+        <author>
+            <name>Justin Tran</name>
+            <uri>https://github.com/jttran604</uri>
+        </author>
+        <category label="firstpost" term="firstpost"/>
+    </entry>
+</feed>
