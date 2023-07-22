@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvncomp_github_io=self.webpackChunkvncomp_github_io||[]).push([[642],{6872:s=>{s.exports=JSON.parse('{"label":"firstpost","permalink":"/blog/tags/firstpost","allTagsPath":"/blog/tags","count":1}')}}]);
